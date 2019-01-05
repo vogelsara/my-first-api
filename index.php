@@ -8,6 +8,8 @@
     <title>Document</title>
 </head>
 <body>
-    <button onclick="">Show products</button>
+    <button onclick="getProducts()">Show products</button>
+    <ul id="productList">
+    </ul>
 </body>
 </html>
